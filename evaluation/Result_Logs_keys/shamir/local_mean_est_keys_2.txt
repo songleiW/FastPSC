@@ -1,0 +1,2291 @@
+run=0
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575502 seconds 
+Data sent = 177.628 MB
+Time = 0.576906 seconds 
+Data sent = 177.628 MB
+Time = 0.575776 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.579017 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.57758 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=1
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.57904 seconds 
+Data sent = 177.628 MB
+Time = 0.580383 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.580792 seconds 
+Data sent = 177.628 MB
+Time = 0.581381 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.580356 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=2
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.567396 seconds 
+Data sent = 177.628 MB
+Time = 0.567342 seconds 
+Data sent = 177.628 MB
+Time = 0.568942 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.568486 seconds 
+Data sent = 177.628 MB
+Time = 0.568832 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=3
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.573491 seconds 
+Data sent = 177.628 MB
+Time = 0.573384 seconds 
+Data sent = 177.628 MB
+Time = 0.573295 seconds 
+Data sent = 177.628 MB
+Time = 0.57358 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.573649 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=4
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575671 seconds 
+Data sent = 177.628 MB
+Time = 0.577102 seconds 
+Data sent = 177.628 MB
+Time = 0.578937 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.578206 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.577791 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=5
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.580979 seconds 
+Data sent = 177.628 MB
+Time = 0.582467 seconds 
+Data sent = 177.628 MB
+Time = 0.580724 seconds 
+Data sent = 177.628 MB
+Time = 0.582089 seconds 
+Data sent = 177.628 MB
+Time = 0.581674 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=6
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.561802 seconds 
+Data sent = 177.628 MB
+Time = 0.560797 seconds 
+Data sent = 177.628 MB
+Time = 0.561972 seconds 
+Data sent = 177.628 MB
+Time = 0.562524 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.563282 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=7
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.567051 seconds 
+Data sent = 177.628 MB
+Time = 0.569063 seconds 
+Data sent = 177.628 MB
+Time = 0.568023 seconds 
+Data sent = 177.628 MB
+Time = 0.568444 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.568245 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=8
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+  what():  write_some: Connection reset by peer
+terminate called after throwing an instance of 'terminate called recursively
+boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+  what():  write_some: Connection reset by peer
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+run=9
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.578377 seconds 
+Data sent = 177.628 MB
+Time = 0.578945 seconds 
+Data sent = 177.628 MB
+Time = 0.578684 seconds 
+Data sent = 177.628 MB
+Time = 0.57907 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.580649 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=10
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.579418 seconds 
+Data sent = 177.628 MB
+Time = 0.579964 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.58038 seconds 
+Data sent = 177.628 MB
+Time = 0.580109 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.577924 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=11
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.571202 seconds 
+Data sent = 177.628 MB
+Time = 0.571185 seconds 
+Data sent = 177.628 MB
+Time = 0.572069 seconds 
+Data sent = 177.628 MB
+Time = 0.573188 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.574644 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=12
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.580085 seconds 
+Data sent = 177.628 MB
+Time = 0.58044 seconds 
+Data sent = 177.628 MB
+Time = 0.582519 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.581491 seconds 
+Data sent = 177.628 MB
+Time = 0.582155 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=13
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.580545 seconds 
+Data sent = 177.628 MB
+Time = 0.581731 seconds 
+Data sent = 177.628 MB
+Time = 0.580362 seconds 
+Data sent = 177.628 MB
+Time = 0.580793 seconds 
+Data sent = 177.628 MB
+Time = 0.582404 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=14
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.579868 seconds 
+Data sent = 177.628 MB
+Time = 0.580511 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.579968 seconds 
+Data sent = 177.628 MB
+Time = 0.580932 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.581062 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=15
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.582406 seconds 
+Data sent = 177.628 MB
+Time = 0.582071 seconds 
+Data sent = 177.628 MB
+Time = 0.58327 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.583951 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.584124 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=16
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.559847 seconds 
+Data sent = 177.628 MB
+Time = 0.561224 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.562359 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.562289 seconds 
+Data sent = 177.628 MB
+Time = 0.561794 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=17
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.58703 seconds 
+Data sent = 177.628 MB
+Time = 0.586503 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.588442 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.586383 seconds 
+Data sent = 177.628 MB
+Time = 0.585542 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=18
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.571625 seconds 
+Data sent = 177.628 MB
+Time = 0.574259 seconds 
+Data sent = 177.628 MB
+Time = 0.573062 seconds 
+Data sent = 177.628 MB
+Time = 0.573555 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.573386 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=19
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.581206 seconds 
+Data sent = 177.628 MB
+Time = 0.582601 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.583489 seconds 
+Data sent = 177.628 MB
+Time = 0.582682 seconds 
+Data sent = 177.628 MB
+Time = 0.581698 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=20
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.576347 seconds 
+Data sent = 177.628 MB
+Time = 0.576713 seconds 
+Data sent = 177.628 MB
+Time = 0.57496 seconds 
+Data sent = 177.628 MB
+Time = 0.575596 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.577191 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=21
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575441 seconds 
+Data sent = 177.628 MB
+Time = 0.576501 seconds 
+Data sent = 177.628 MB
+Time = 0.578767 seconds 
+Data sent = 177.628 MB
+Time = 0.57662 seconds 
+Data sent = 177.628 MB
+Time = 0.576629 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=22
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.582481 seconds 
+Data sent = 177.628 MB
+Time = 0.580667 seconds 
+Data sent = 177.628 MB
+Time = 0.58198 seconds 
+Data sent = 177.628 MB
+Time = 0.583313 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.581558 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=23
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.568376 seconds 
+Data sent = 177.628 MB
+Time = 0.570291 seconds 
+Data sent = 177.628 MB
+Time = 0.570858 seconds 
+Data sent = 177.628 MB
+Time = 0.569817 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.569988 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=24
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.577586 seconds 
+Data sent = 177.628 MB
+Time = 0.577805 seconds 
+Data sent = 177.628 MB
+Time = 0.578374 seconds 
+Data sent = 177.628 MB
+Time = 0.578253 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.577656 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=25
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.569423 seconds 
+Data sent = 177.628 MB
+Time = 0.569045 seconds 
+Data sent = 177.628 MB
+Time = 0.570053 seconds 
+Data sent = 177.628 MB
+Time = 0.570337 seconds 
+Data sent = 177.628 MB
+Time = 0.570638 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=26
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.579644 seconds 
+Data sent = 177.628 MB
+Time = 0.577253 seconds 
+Data sent = 177.628 MB
+Time = 0.579201 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.579408 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.580296 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=27
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575542 seconds 
+Data sent = 177.628 MB
+Time = 0.57641 seconds 
+Data sent = 177.628 MB
+Time = 0.577382 seconds 
+Data sent = 177.628 MB
+Time = 0.57678 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.576441 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=28
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.574274 seconds 
+Data sent = 177.628 MB
+Time = 0.574745 seconds 
+Data sent = 177.628 MB
+Time = 0.575815 seconds 
+Data sent = 177.628 MB
+Time = 0.576535 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.576938 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=29
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.580541 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.582843 seconds 
+Data sent = 177.628 MB
+Time = 0.583097 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.582247 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.58418 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=30
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.58035 seconds 
+Data sent = 177.628 MB
+Time = 0.581723 seconds 
+Data sent = 177.628 MB
+Time = 0.581384 seconds 
+Data sent = 177.628 MB
+Time = 0.580729 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.582867 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=31
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.584681 seconds 
+Data sent = 177.628 MB
+Time = 0.584887 seconds 
+Data sent = 177.628 MB
+Time = 0.585983 seconds 
+Data sent = 177.628 MB
+Time = 0.584307 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.586927 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=32
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575124 seconds 
+Data sent = 177.628 MB
+Time = 0.574566 seconds 
+Data sent = 177.628 MB
+Time = 0.574761 seconds 
+Data sent = 177.628 MB
+Time = 0.574863 seconds 
+Data sent = 177.628 MB
+Time = 0.580465 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=33
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.576495 seconds 
+Data sent = 177.628 MB
+Time = 0.577303 seconds 
+Data sent = 177.628 MB
+Time = 0.579238 seconds 
+Data sent = 177.628 MB
+Time = 0.578457 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.579923 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=34
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575279 seconds 
+Data sent = 177.628 MB
+Time = 0.574761 seconds 
+Data sent = 177.628 MB
+Time = 0.575574 seconds 
+Data sent = 177.628 MB
+Time = 0.576875 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.576273 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=35
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575592 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.576869 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.577317 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.577731 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.576799 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=36
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.578959 seconds 
+Data sent = 177.628 MB
+Time = 0.579197 seconds 
+Data sent = 177.628 MB
+Time = 0.578877 seconds 
+Data sent = 177.628 MB
+Time = 0.578945 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.580577 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=37
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.702652 seconds 
+Data sent = 177.628 MB
+Time = 0.702274 seconds 
+Data sent = 177.628 MB
+Time = 0.702784 seconds 
+Data sent = 177.628 MB
+Time = 0.70203 seconds 
+Data sent = 177.628 MB
+Time = 0.704101 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=38
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.572213 seconds 
+Data sent = 177.628 MB
+Time = 0.571741 seconds 
+Data sent = 177.628 MB
+Time = 0.571581 seconds 
+Data sent = 177.628 MB
+Time = 0.573769 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.572979 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=39
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.582804 seconds 
+Data sent = 177.628 MB
+Time = 0.582646 seconds 
+Data sent = 177.628 MB
+Time = 0.582817 seconds 
+Data sent = 177.628 MB
+Time = 0.584177 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.583976 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=40
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.582141 seconds 
+Data sent = 177.628 MB
+Time = 0.582452 seconds 
+Data sent = 177.628 MB
+Time = 0.582801 seconds 
+Data sent = 177.628 MB
+Time = 0.583159 seconds 
+Data sent = 177.628 MB
+Time = 0.583654 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=41
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.574322 seconds 
+Data sent = 177.628 MB
+Time = 0.57508 seconds 
+Data sent = 177.628 MB
+Time = 0.574914 seconds 
+Data sent = 177.628 MB
+Time = 0.576232 seconds 
+Data sent = 177.628 MB
+Time = 0.579562 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=42
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.569828 seconds 
+Data sent = 177.628 MB
+Time = 0.571853 seconds 
+Data sent = 177.628 MB
+Time = 0.573212 seconds 
+Data sent = 177.628 MB
+Time = 0.57177 seconds 
+Data sent = 177.628 MB
+Time = 0.572548 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=43
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+  what():  terminate called recursively
+terminate called recursively
+read_some: stream truncated
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'terminate called recursively
+boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+run=44
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.584548 seconds 
+Data sent = 177.628 MB
+Time = 0.5839 seconds 
+Data sent = 177.628 MB
+Time = 0.583929 seconds 
+Data sent = 177.628 MB
+Time = 0.585542 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.582238 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=45
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.558065 seconds 
+Data sent = 177.628 MB
+Time = 0.556954 seconds 
+Data sent = 177.628 MB
+Time = 0.560039 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.560151 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.559749 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=46
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.577487 seconds 
+Data sent = 177.628 MB
+Time = 0.578505 seconds 
+Data sent = 177.628 MB
+Time = 0.57919 seconds 
+Data sent = 177.628 MB
+Time = 0.580784 seconds 
+Data sent = 177.628 MB
+Time = 0.579381 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=47
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.569979 seconds 
+Data sent = 177.628 MB
+Time = 0.570316 seconds 
+Data sent = 177.628 MB
+Time = 0.571271 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.570229 seconds 
+Data sent = 177.628 MB
+Time = 0.570869 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=48
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.572883 seconds 
+Data sent = 177.628 MB
+Time = 0.573591 seconds 
+Data sent = 177.628 MB
+Time = 0.573155 seconds 
+Data sent = 177.628 MB
+Time = 0.5734 seconds 
+Data sent = 177.628 MB
+Time = 0.57472 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=49
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.5706 seconds 
+Data sent = 177.628 MB
+Time = 0.571825 seconds 
+Data sent = 177.628 MB
+Time = 0.573011 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.573321 seconds 
+Data sent = 177.628 MB
+Time = 0.572397 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=50
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.592953 seconds 
+Data sent = 177.628 MB
+Time = 0.595087 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.594705 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.595712 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.594381 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=51
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.588026 seconds 
+Data sent = 177.628 MB
+Time = 0.588979 seconds 
+Data sent = 177.628 MB
+Time = 0.587662 seconds 
+Data sent = 177.628 MB
+Time = 0.589662 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.589492 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=52
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.573356 seconds 
+Data sent = 177.628 MB
+Time = 0.57287 seconds 
+Data sent = 177.628 MB
+Time = 0.575505 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.575049 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.573916 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=53
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = Time = 0.57056 seconds 
+Data sent = 177.628 MB
+Time = 0.569065 seconds 
+Data sent = 177.628 MB
+0.569738 seconds 
+Data sent = 177.628 MB
+Time = 0.569021 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.568405 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=54
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+  what():  write_some: Connection reset by peer
+terminate called after throwing an instance of 'terminate called recursively
+terminate called recursively
+terminate called recursively
+boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+  what():  read_some: stream truncated
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+run=55
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.56494 seconds 
+Data sent = 177.628 MB
+Time = 0.567341 seconds 
+Data sent = 177.628 MB
+Time = 0.566585 seconds 
+Data sent = 177.628 MB
+Time = 0.567723 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.568496 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=56
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.573281 seconds 
+Data sent = 177.628 MB
+Time = 0.576125 seconds 
+Data sent = 177.628 MB
+Time = 0.576065 seconds 
+Data sent = 177.628 MB
+Time = 0.575908 seconds 
+Data sent = 177.628 MB
+Time = 0.576584 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=57
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.57169 seconds 
+Data sent = 177.628 MB
+Time = 0.574331 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.574344 seconds 
+Data sent = 177.628 MB
+Time = 0.574797 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.575172 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=58
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.568676 seconds 
+Data sent = 177.628 MB
+Time = 0.572155 seconds 
+Data sent = 177.628 MB
+Time = 0.571409 seconds 
+Data sent = 177.628 MB
+Time = 0.572038 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.572959 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=59
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.583248 seconds 
+Data sent = 177.628 MB
+Time = 0.583464 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.585441 seconds 
+Data sent = 177.628 MB
+Time = 0.581925 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.58346 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=60
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.573494 seconds 
+Data sent = 177.628 MB
+Time = 0.574437 seconds 
+Data sent = 177.628 MB
+Time = 0.575101 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.575349 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.575242 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=61
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.569341 seconds 
+Data sent = 177.628 MB
+Time = 0.570746 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.570222 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.57132 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.570566 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=62
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.581853 seconds 
+Data sent = 177.628 MB
+Time = 0.584244 seconds 
+Data sent = 177.628 MB
+Time = 0.584292 seconds 
+Data sent = 177.628 MB
+Time = 0.583616 seconds 
+Data sent = 177.628 MB
+Time = 0.585576 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=63
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.574874 seconds 
+Data sent = 177.628 MB
+Time = 0.575805 seconds 
+Data sent = 177.628 MB
+Time = 0.576713 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.577196 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.57695 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=64
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.577637 seconds 
+Data sent = 177.628 MB
+Time = 0.578031 seconds 
+Data sent = 177.628 MB
+Time = 0.579289 seconds 
+Data sent = 177.628 MB
+Time = 0.580441 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.581465 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=65
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.581875 seconds 
+Data sent = 177.628 MB
+Time = 0.581907 seconds 
+Data sent = 177.628 MB
+Time = 0.583398 seconds 
+Data sent = 177.628 MB
+Time = 0.583076 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.583409 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=66
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.577538 seconds 
+Data sent = 177.628 MB
+Time = 0.578612 seconds 
+Data sent = 177.628 MB
+Time = 0.578884 seconds 
+Data sent = 177.628 MB
+Time = 0.58015 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.579684 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=67
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+  what():  write_some: Connection reset by peer
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+  what():  read_some: stream truncated
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>'
+terminate called recursively
+  what():  read_some: stream truncated
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called after throwing an instance of 'boost::wrapexcept<boost::system::system_error>terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+'
+terminate called recursively
+terminate called recursively
+terminate called recursively
+terminate called recursively
+run=68
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.608356 seconds 
+Data sent = 177.628 MB
+Time = 0.606735 seconds 
+Data sent = 177.628 MB
+Time = 0.608673 seconds 
+Data sent = 177.628 MB
+Time = 0.608624 seconds 
+Data sent = 177.628 MB
+Time = 0.610712 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=69
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.576232 seconds 
+Data sent = 177.628 MB
+Time = 0.576691 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.578966 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.578813 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.577081 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=70
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.569328 seconds 
+Data sent = 177.628 MB
+Time = 0.569894 seconds 
+Data sent = 177.628 MB
+Time = 0.570045 seconds 
+Data sent = 177.628 MB
+Time = 0.569002 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.571139 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=71
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.569801 seconds 
+Data sent = 177.628 MB
+Time = Time = 0.568752 seconds 
+Data sent = 177.628 MB
+Time = 0.570644 seconds 
+Data sent = 177.628 MB
+0.569796 seconds 
+Data sent = 177.628 MB
+Time = 0.570887 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=72
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.617083 seconds 
+Data sent = 177.628 MB
+Time = 0.618655 seconds 
+Data sent = 177.628 MB
+Time = 0.619948 seconds 
+Data sent = 177.628 MB
+Time = 0.618992 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.621043 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=73
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.57786 seconds 
+Data sent = 177.628 MB
+Time = 0.576642 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.577701 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.575773 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.573413 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=74
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.574217 seconds 
+Data sent = 177.628 MB
+Time = 0.574399 seconds 
+Data sent = 177.628 MB
+Time = 0.574487 seconds 
+Data sent = 177.628 MB
+Time = 0.57567 seconds 
+Data sent = 177.628 MB
+Time = 0.574432 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=75
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.82935 seconds 
+Data sent = 177.628 MB
+Time = 0.829141 seconds 
+Data sent = 177.628 MB
+Time = 0.8298 seconds 
+Data sent = 177.628 MB
+Time = 0.83017 seconds 
+Data sent = 177.628 MB
+Time = 0.832853 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=76
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.580175 seconds 
+Data sent = 177.628 MB
+Time = 0.581558 seconds 
+Data sent = 177.628 MB
+Time = 0.580784 seconds 
+Data sent = 177.628 MB
+Time = 0.582349 seconds 
+Data sent = 177.628 MB
+Time = 0.580999 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=77
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.577341 seconds 
+Data sent = 177.628 MB
+Time = 0.57925 seconds 
+Data sent = 177.628 MB
+Time = 0.579512 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.57936 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.579854 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=78
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.578787 seconds 
+Data sent = 177.628 MB
+Time = 0.580039 seconds 
+Data sent = 177.628 MB
+Time = 0.581005 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.581408 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.579925 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=79
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.585488 seconds 
+Data sent = 177.628 MB
+Time = 0.588178 seconds 
+Data sent = 177.628 MB
+Time = 0.587404 seconds 
+Data sent = 177.628 MB
+Time = 0.588372 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.587453 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=80
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.572594 seconds 
+Data sent = 177.628 MB
+Time = 0.573403 seconds 
+Data sent = 177.628 MB
+Time = 0.572167 seconds 
+Data sent = 177.628 MB
+Time = 0.571647 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.574339 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=81
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.582516 seconds 
+Data sent = 177.628 MB
+Time = 0.583764 seconds 
+Data sent = 177.628 MB
+Time = 0.58197 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.584444 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.584952 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=82
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.553475 seconds 
+Data sent = 177.628 MB
+Time = 0.554649 seconds 
+Data sent = 177.628 MB
+Time = 0.553428 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.555258 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.555963 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=83
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.572429 seconds 
+Data sent = 177.628 MB
+Time = 0.573304 seconds 
+Data sent = 177.628 MB
+Time = 0.573111 seconds 
+Data sent = 177.628 MB
+Time = 0.573329 seconds 
+Data sent = 177.628 MB
+Time = 0.574302 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=84
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.581133 seconds 
+Data sent = 177.628 MB
+Time = 0.581494 seconds 
+Data sent = 177.628 MB
+Time = 0.581244 seconds 
+Data sent = 177.628 MB
+Time = 0.582126 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.582561 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=85
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.587456 seconds 
+Data sent = 177.628 MB
+Time = 0.586497 seconds 
+Data sent = 177.628 MB
+Time = 0.589062 seconds 
+Data sent = 177.628 MB
+Time = 0.588226 seconds 
+Data sent = 177.628 MB
+Time = 0.588927 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=86
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.581368 seconds 
+Data sent = 177.628 MB
+Time = 0.582786 seconds 
+Data sent = 177.628 MB
+Time = 0.582662 seconds 
+Data sent = 177.628 MB
+Time = 0.582985 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.583742 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=87
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.575158 seconds 
+Data sent = 177.628 MB
+Time = 0.576266 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.575067 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.576675 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.573554 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=88
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.578517 seconds 
+Data sent = 177.628 MB
+Time = 0.579854 seconds 
+Data sent = 177.628 MB
+Time = 0.58014 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.580821 seconds 
+Data sent = 177.628 MB
+Time = 0.581224 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=89
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.574448 seconds 
+Data sent = 177.628 MB
+Time = 0.574521 seconds 
+Data sent = 177.628 MB
+Time = 0.575363 seconds 
+Data sent = 177.628 MB
+Time = 0.576093 seconds 
+Data sent = 177.628 MB
+Time = 0.577515 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=90
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.561277 seconds 
+Data sent = 177.628 MB
+Time = 0.560728 seconds 
+Data sent = 177.628 MB
+Time = 0.562165 seconds 
+Data sent = 177.628 MB
+Time = 0.562185 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.562971 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=91
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.582879 seconds 
+Data sent = 177.628 MB
+Time = 0.58429 seconds 
+Data sent = 177.628 MB
+Time = 0.585705 seconds 
+Data sent = 177.628 MB
+Time = 0.584456 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.586793 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+run=92
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.568664 seconds 
+Data sent = 177.628 MB
+Time = 0.570688 seconds 
+Data sent = 177.628 MB
+Time = 0.569771 seconds 
+Data sent = 177.628 MB
+Time = 0.571815 seconds 
+Data sent = 177.628 MB
+Time = 0.570892 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=93
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.577401 seconds 
+Data sent = 177.628 MB
+Time = 0.578065 seconds 
+Data sent = 177.628 MB
+Time = 0.578725 seconds 
+Data sent = 177.628 MB
+Time = 0.579452 seconds 
+Data sent = 177.628 MB
+Time = 0.578633 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=94
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.571953 seconds 
+Data sent = 177.628 MB
+Time = 0.572115 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.572828 seconds 
+Data sent = 177.628 MB
+Time = 0.572678 seconds 
+Data sent = 177.628 MB
+Time = 0.572473 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=95
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.598485 seconds 
+Data sent = 177.628 MB
+Time = 0.600599 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.600482 seconds 
+Data sent = 177.628 MB
+Time = 0.600151 seconds 
+Data sent = 177.628 MB
+Time = 0.601037 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=96
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.592992 seconds 
+Data sent = 177.628 MB
+Time = 0.593902 seconds 
+Data sent = 177.628 MB
+Time = 0.59327 seconds 
+Data sent = 177.628 MB
+Time = 0.595511 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.594415 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=97
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.562869 seconds 
+Data sent = 177.628 MB
+Time = 0.563881 seconds 
+Data sent = 177.628 MB
+Time = 0.565191 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Time = 0.565011 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.565441 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=98
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.581158 seconds 
+Data sent = 177.628 MB
+Time = 0.580909 seconds 
+Data sent = 177.628 MB
+Time = 0.566927 seconds 
+Data sent = 177.628 MB
+Time = 0.583355 seconds 
+Data sent = 177.628 MB
+Time = 0.583727 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+run=99
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+No modulus found in Player-Data//5-Sp-128/Params-Data, generating 128-bit prime
+Time = 0.576152 seconds 
+Data sent = 177.628 MB
+Time = 0.579403 seconds 
+Data sent = 177.628 MB
+Time = 0.57802 seconds 
+Data sent = 177.628 MB
+Time = 0.57885 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB
+Time = 0.577228 seconds 
+Data sent = 177.628 MB
+Global data sent = 888.141 MB
+Global data sent = 888.141 MB

@@ -1,0 +1,16 @@
+from Compiler import mpc_math, types
+sfix.set_precision(16, 32)
+
+x = public_input()
+
+NUMBER_OF_INPUTS = 1000
+result = sfix.Array(NUMBER_OF_INPUTS)
+inputs = sfix.Array(NUMBER_OF_INPUTS)
+inputs.assign_all(x)
+
+@for_range_multithread(64, 1, NUMBER_OF_INPUTS)
+def _(i):
+    result[i] = inputs[i] * (1-inputs[i])
+
+print_ln('%s', result[0].reveal())
+

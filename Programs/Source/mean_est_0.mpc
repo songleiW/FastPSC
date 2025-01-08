@@ -1,0 +1,19 @@
+from Compiler import mpc_math, types
+sfix.set_precision(16, 32)
+
+eps = public_input()
+sensitivity = public_input()
+ln_2 = 0.69314718
+noise_scale = sfix(sensitivity/eps)
+
+frequency = sfix(public_input())
+sum_value = sfix(public_input())
+
+def laplace_noise(noise_scale):
+    zeta = sfix.get_random(lower=0, upper=1)
+    constant = noise_scale * ln_2
+    X = (zeta > 0.5).if_else(-mpc_math.log2_fx(2*(1-zeta)), mpc_math.log2_fx(2*zeta))
+    X = X * constant
+    return X
+
+result = sum_value / frequency + laplace_noise(noise_scale)

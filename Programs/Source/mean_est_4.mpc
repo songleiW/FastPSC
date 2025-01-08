@@ -1,0 +1,30 @@
+from Compiler import mpc_math, types
+sfix.set_precision(16, 32)
+
+eps = public_input()
+sensitivity = public_input()
+ln_2 = 0.69314718
+noise_scale = sfix(sensitivity/eps)
+
+frequency = public_input()
+sum_values = public_input()
+
+def laplace_noise(noise_scale):
+    zeta = sfix.get_random(lower=0, upper=1)
+    constant = noise_scale * ln_2
+    X = (zeta > 0.5).if_else(-mpc_math.log2_fx(2*(1-zeta)), mpc_math.log2_fx(2*zeta))
+    X = X * constant
+    return X
+
+NUMBER_OF_KEYS = 10000
+result = sfix.Array(NUMBER_OF_KEYS)
+sum_values_array = sfix.Array(NUMBER_OF_KEYS)
+sum_values_array.assign_all(sum_values)
+frequency_array = sfix.Array(NUMBER_OF_KEYS)
+frequency_array.assign_all(frequency)
+noise_scale_array = sfix.Array(1)
+noise_scale_array.assign_all(noise_scale)
+
+@for_range_multithread(64, 1, NUMBER_OF_KEYS)
+def _(i):
+    result[i] = ( sum_values_array[i] / frequency_array[i] ) + laplace_noise(noise_scale_array[0])

@@ -7,7 +7,6 @@ Here’s the English version of the README for your FastPSC project, tailored fo
 **FastPSC** is a protocol for **fast and maliciously secure computation of intersection and union over multi-owner sets**. This implementation accompanies the paper:
 
 > **FastPSC: Fast and Maliciously Secure Computation of Intersection and Union on Multi-Owner Sets**
-> *(Submitted to VLDB 2025)*
 
 ## 📁 Project Structure
 
